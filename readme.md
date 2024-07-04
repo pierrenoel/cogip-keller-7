@@ -6,7 +6,7 @@
 - **Deadline:** To complete
 - **Team Challenge:** 4,5 people
 
-## Groups
+## Groups
 
 - Team 1:
 
