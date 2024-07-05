@@ -141,16 +141,11 @@ There must also be a custom message on the welcome page depending if Muriel or J
 
 If you have so much time left, you can create an auth system for your application (Of course, you an use a package if you want.)
 
-- Login Page
-- New Account Page
-
-In this case, don't forget to use session to stay connected between pages
-
 ### Roles & permissions
 
-If the user as god mode access (by default: Jean-Christian as it, his password is his last name) he will also have access to a button to manage the users. This button will lead him to a dashboard showing the members (users who have an access to the application), their access right and the power to modify them.
+- If the user as god mode access (by default: Jean-Christian as it, his password is his last name) he will also have access to a button to manage the users. This button will lead him to a dashboard showing the members (users who have an access to the application), their access right and the power to modify them.
 
-If the user as moderator access (by default: Muriel, her password is her last name) he will have access to the admin dashboard, he can add invoices, companies and people but can't either modify or delete elements from the database.
+- If the user as moderator access (by default: Muriel, her password is her last name) he will have access to the admin dashboard, he can add invoices, companies and people but can't either modify or delete elements from the database.
 
 In your database, you can add a role (admin or moderator) and allow some features/pages/functionalities depending on the role.
 
